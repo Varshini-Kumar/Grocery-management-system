@@ -1,6 +1,7 @@
 # Grocery-management-system
 Grocery management system using python with sql connectivity
 Project Title: Grocery Store Management System Using Python With Database Connectivity
+
 Steps:
   -Install python IDLE latest version
   -Download My Sql
